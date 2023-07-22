@@ -1,0 +1,50 @@
+body {
+    padding: 9px;
+}
+
+.banner {
+    background-color: beige;
+    text-align: center;
+    padding: 6px;
+}
+
+.comments {
+    width: 50%;
+    padding: 10px;
+    padding: 6px;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 6px;
+}
+
+th {
+    background-color: rgb(22, 165, 117);
+    border-radius: 10px;
+    padding: 6px;
+}
+td {
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    padding: 6px;
+}
+
+dt {
+    color: blue;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 6px;
+}
+
+dd {
+    background-color: bisque;
+    border-radius: 5px;  
+    margin: 10px;
+    padding: 6px;
+}
+

@@ -1,0 +1,32 @@
+body {
+    color: white;
+    background-color: #000000;
+}
+
+img {
+    height:200px; 
+    width:250px;
+}
+
+#worm {
+    margin-left: 45px;
+}
+
+h4 {
+    text-align: center;
+
+}
+
+#exercise-box {
+    max-width: 500px;
+    margin: auto;
+    border: 3px solid #2e3958;
+    padding: 5px;
+}
+
+span.rel {
+    color: aquamarine;
+    text-decoration-line: underline;
+}
+
+
